@@ -1,6 +1,6 @@
 {
     "name": "YouTube Downloader Bot",
-    "description": "A bot that can upload photos and video to telegraph.",
+    "description": "A bot that can download YouTube videos",
     "logo": "https://telegra.ph/file/3db812d9dcf60ab1a5997.jpg",	
     "keywords": [
         "youtube",
