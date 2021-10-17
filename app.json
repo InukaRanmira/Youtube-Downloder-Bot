@@ -1,5 +1,5 @@
 {
-    "name": "Telegraph Bot",
+    "name": "YouTube Downloader Bot",
     "description": "A bot that can upload photos and video to telegraph.",
     "logo": "https://telegra.ph/file/3db812d9dcf60ab1a5997.jpg",	
     "keywords": [
@@ -8,8 +8,8 @@
         "Telegram Bot",
         "DT Bots"
     ],
-    "website": "https://Damantha.tk/web",
-    "repository": "https://github.com/Damantha126/DT-TelegraphBot",
+    "website": "https://t.me/InukaRanmira",
+    "repository": "https://github.com/InukaRanmira/Youtube-Downloder-Bot",
     "success_url": "https://t.me/slbotzone",
     "env": {
         "BOT_TOKEN": {
