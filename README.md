@@ -7,7 +7,7 @@
 
 
 ## Setup Bot
-    - Change configuration config.py  File
+    - Deploy on heroku
     - install dependencies
     - python3 -m bot
     
