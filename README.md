@@ -14,5 +14,6 @@
 ## Credits ❤️
 * [Inuka Ranmira](https://t.me/InukaRanmira)
 * [Github](https://github.com/InukaRanmira)
+* [Tinura Dinith ](https://github.com/TinuraD)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaRanmira/Youtube-Downloder-Bot)
